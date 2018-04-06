@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <CheckBox
+        android:id="@+id/pzts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PAZARTESİ" />
+
+    <CheckBox
+        android:id="@+id/sali"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SALI" />
+
+    <CheckBox
+        android:id="@+id/carsampa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ÇARŞAMBA" />
+
+    <CheckBox
+        android:id="@+id/persembe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PERŞEMBE" />
+
+    <CheckBox
+        android:id="@+id/cuma"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CUMA" />
+
+    <CheckBox
+        android:id="@+id/cmts"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CUMARTESİ" />
+
+    <CheckBox
+        android:id="@+id/pzr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="PAZAR" />
+</LinearLayout>
